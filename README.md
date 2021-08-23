@@ -19,10 +19,10 @@
 | 분야           | 사용 기술                             | 비고 |
 | -------------- | ------------------------------------- | ---- |
 | FrontEnd       | React, javascript, tailwindCSS, mobx6 |      |
-| BackEnd        |                                       |      |
-| Database       |                                       |      |
-| Cloud Services |                                       |      |
-| TOOL           |                                       |      |
+| BackEnd        | Java, Spring, JPA                     |      |
+| Database       | MySQL, h2                             |      |
+| Cloud Services | AWS EC2, AWS RDS                      |      |
+| TOOL           | IntelliJ, Gradle, jUnit               |      |
 
 ## 🧩 아키텍처
 
